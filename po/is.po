@@ -1,0 +1,340 @@
+# Icelandic translation of gnome-games.
+# Copyright (C) 2004 THE gnome-games'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-games package.
+# aki <aki@akademia.is>, 2004.
+# , fuzzy
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games 2.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-31 22:28+0100\n"
+"PO-Revision-Date: 2004-05-27 22:28-0000\n"
+"Last-Translator: Samuel Jon Gunnarsson <sammi@techattack.nu>\n"
+"Language-Team: Icelandic <gnome@techattack.nu>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/five-or-more.appdata.xml.in.h:1 ../data/five-or-more.desktop.in.h:1
+#: ../data/five-or-more.ui.h:1 ../src/five-or-more.c:1173
+#: ../src/five-or-more.c:1724
+msgid "Five or More"
+msgstr "Five or More"
+
+#: ../data/five-or-more.appdata.xml.in.h:2 ../data/five-or-more.desktop.in.h:2
+msgid "Remove colored balls from the board by forming lines"
+msgstr "Fjarlægðu litaða bolta úr borðinu með því að mynda raðir"
+
+#: ../data/five-or-more.appdata.xml.in.h:3
+msgid ""
+"Five or More is the GNOME port of a once-popular computer game. Align five "
+"or more objects of the same color into a line to cause them to disappear and "
+"score points. Earn many more points by lining up as many objects as possible "
+"before clearing them."
+msgstr ""
+
+#: ../data/five-or-more.appdata.xml.in.h:4
+msgid ""
+"More objects appear after every turn. Play for as long as possible, until "
+"the board is completely full!"
+msgstr ""
+
+#: ../data/five-or-more.appdata.xml.in.h:5
+msgid "The GNOME Project"
+msgstr ""
+
+#: ../data/five-or-more.desktop.in.h:3
+msgid "game;strategy;logic;"
+msgstr ""
+
+#: ../data/five-or-more-preferences.ui.h:1 ../data/menu.ui.h:2
+#: ../src/five-or-more.c:169
+msgid "Preferences"
+msgstr "Stillingar"
+
+#: ../data/five-or-more-preferences.ui.h:2
+msgid "Appearance"
+msgstr "Útlit"
+
+#: ../data/five-or-more-preferences.ui.h:3
+#, fuzzy
+msgid "_Image:"
+msgstr "Myndaþema:"
+
+#: ../data/five-or-more-preferences.ui.h:4
+#, fuzzy
+msgid "B_ackground color:"
+msgstr "Bakgrunnslitur:"
+
+#: ../data/five-or-more-preferences.ui.h:5
+#, fuzzy
+msgid "Board Size"
+msgstr "Spil eftir:"
+
+#: ../data/five-or-more-preferences.ui.h:6
+#, fuzzy
+msgid "_Small"
+msgstr "Lítið"
+
+#: ../data/five-or-more-preferences.ui.h:7
+#, fuzzy
+msgid "_Medium"
+msgstr "Miðlungs"
+
+#: ../data/five-or-more-preferences.ui.h:8
+#, fuzzy
+msgid "_Large"
+msgstr "Stórt"
+
+#: ../data/five-or-more-preferences.ui.h:9
+msgid "General"
+msgstr "Almennt"
+
+#: ../data/five-or-more-preferences.ui.h:10
+#, fuzzy
+msgid "_Use fast moves"
+msgstr "Nota hraða leiki"
+
+#: ../data/five-or-more.ui.h:2
+#, fuzzy
+msgid "Next:"
+msgstr "Næstu boltar:"
+
+#: ../data/five-or-more.ui.h:3
+msgid "0"
+msgstr ""
+
+#: ../data/five-or-more.ui.h:4
+msgid "Score:"
+msgstr "Stig:"
+
+#: ../data/five-or-more.ui.h:5 ../src/games-scores-dialog.c:384
+#, fuzzy
+msgid "_New Game"
+msgstr "Nýr leikur"
+
+#: ../data/five-or-more.ui.h:6
+#, fuzzy
+msgid "Start a new puzzle"
+msgstr "Byrja nýjan leik"
+
+#: ../data/menu.ui.h:1
+msgid "Scores"
+msgstr "Stig"
+
+#: ../data/menu.ui.h:3
+msgid "Help"
+msgstr ""
+
+#: ../data/menu.ui.h:4
+msgid "About"
+msgstr ""
+
+#: ../data/menu.ui.h:5
+msgid "Quit"
+msgstr ""
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:1
+#, fuzzy
+msgid "Playing field size"
+msgstr "Vallarstærð"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:2
+msgid ""
+"Playing field size. 1=Small, 2=Medium, 3=Large. Any other value is invalid."
+msgstr ""
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:3
+msgid "Ball style"
+msgstr "Stíll bolta"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:4
+msgid "Ball style. The filename of the images to use for the balls."
+msgstr "Stíll bolta. Skráin sem geymir myndirnar fyrir boltana."
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:5
+msgid "Background color"
+msgstr "Bakgrunnslitur"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:6
+msgid "Background color. The hex specification of the background color."
+msgstr "Bakgrunnslitur. Sextándugildi bakgrunnslitar."
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:7
+msgid "Time between moves"
+msgstr "Tími milli leikja"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:8
+msgid "Time between moves in milliseconds."
+msgstr "Tími milli leikja, í millisekúndum."
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:9
+msgid "Game score"
+msgstr "Stig"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:10
+msgid "Game score from last saved session."
+msgstr "Stig frá síðustu vistuðu lotu"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:11
+msgid "Game field"
+msgstr "Spilaborð"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:12
+msgid "Game field from last saved session."
+msgstr "Spilaborð síðustu vistuðu lotu"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:13
+msgid "Game preview"
+msgstr "Forsýn"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:14
+msgid "Game preview from last saved session."
+msgstr "Forsýn á síðustu vistuðu lotu."
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:15
+#, fuzzy
+msgid "Width of the window in pixels"
+msgstr "Breidd aðalglugga"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:16
+#, fuzzy
+msgid "Height of the window in pixels"
+msgstr "Hæð aðalgluggans"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.h:17
+msgid "true if the window is maximized"
+msgstr ""
+
+#: ../src/five-or-more.c:78
+#, fuzzy
+msgctxt "board size"
+msgid "Small"
+msgstr "Lítið"
+
+#: ../src/five-or-more.c:79
+#, fuzzy
+msgctxt "board size"
+msgid "Medium"
+msgstr "Miðlungs"
+
+#: ../src/five-or-more.c:80
+#, fuzzy
+msgctxt "board size"
+msgid "Large"
+msgstr "Stórt"
+
+#: ../src/five-or-more.c:163
+msgid "Could not load theme"
+msgstr ""
+
+#: ../src/five-or-more.c:189
+#, c-format
+msgid ""
+"Unable to locate file:\n"
+"%s\n"
+"\n"
+"The default theme will be loaded instead."
+msgstr ""
+
+#: ../src/five-or-more.c:196
+#, fuzzy, c-format
+msgid ""
+"Unable to locate file:\n"
+"%s\n"
+"\n"
+"Please check that Five or More is installed correctly."
+msgstr ""
+"Five or More fann ekki myndaskrána:\n"
+"%s\n"
+"Athugaðu hvort Five or More er rétt uppsett."
+
+#: ../src/five-or-more.c:408
+#, fuzzy
+msgid "Match five objects of the same type in a row to score!"
+msgstr "Settu fimm bolta af sama lit í röð til að fá stig!"
+
+#: ../src/five-or-more.c:469
+#, fuzzy
+msgid "Five or More Scores"
+msgstr "Five or More"
+
+#: ../src/five-or-more.c:471
+#, fuzzy
+msgid "_Board size:"
+msgstr "Spil eftir:"
+
+#: ../src/five-or-more.c:488
+msgid "Game Over!"
+msgstr "Leik lokið!"
+
+#. Can't move there!
+#: ../src/five-or-more.c:645
+#, fuzzy
+msgid "You can’t move there!"
+msgstr "Þú getur ekki sett þarna!"
+
+#: ../src/five-or-more.c:1175
+msgid "GNOME port of the once-popular Color Lines game"
+msgstr "GNOME-útgáfa þessa eitt sinn vinsæla spils"
+
+#: ../src/five-or-more.c:1181
+msgid "translator-credits"
+msgstr "þýðing"
+
+#: ../src/five-or-more.c:1305
+#, fuzzy
+msgid "Are you sure you want to restart the game?"
+msgstr "Búið! Hvar viltu setja þetta?"
+
+#: ../src/five-or-more.c:1308
+msgid "_Cancel"
+msgstr ""
+
+#: ../src/five-or-more.c:1309
+#, fuzzy
+msgid "_Restart"
+msgstr "Byrja aftur"
+
+#. Score dialog column header for the score time (e.g. 1 minute)
+#: ../src/games-scores-dialog.c:131
+#, fuzzy
+msgctxt "score-dialog"
+msgid "Time"
+msgstr "Tími"
+
+#. Score dialog column header for the score value (e.g. 30 moves)
+#: ../src/games-scores-dialog.c:137
+#, fuzzy
+msgctxt "score-dialog"
+msgid "Score"
+msgstr "Stig"
+
+#. Score format for time based scores.  %1$d is the time in minutes, %2$d is the time in seconds
+#: ../src/games-scores-dialog.c:224
+#, fuzzy, c-format
+msgctxt "score-dialog"
+msgid "%1$dm %2$ds"
+msgstr "%dm %ds"
+
+#: ../src/games-scores-dialog.c:370
+msgid "_Quit"
+msgstr ""
+
+#: ../src/games-scores-dialog.c:377
+#, fuzzy
+msgid "_Undo"
+msgstr "_Leikur"
+
+#: ../src/games-scores-dialog.c:391
+msgid "_Close"
+msgstr ""
+
+#. Score dialog column header for the date the score was recorded
+#: ../src/games-scores-dialog.c:477
+#, fuzzy
+msgid "Date"
+msgstr "Byrja aftur"

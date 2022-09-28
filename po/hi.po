@@ -1,0 +1,546 @@
+# translation of gnome-games.master.hi.po to Hindi
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+#
+# G Karunakar <karunakar@freedomink.org>, 2003.
+# Ravishankar Shrivastava <raviratlami@yahoo.com>, 2004.
+# Rajesh Ranjan <rranjan@redhat.com>, 2005, 2006, 2007.
+# Ravishankar Shrivastava <raviratlami@aol.in>, 2009.
+# Rajesh Ranjan <rajesh672@gmail.com>, 2009, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games.master.hi\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=five-"
+"or-more&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2013-01-28 23:19+0000\n"
+"PO-Revision-Date: 2013-03-25 15:52+0530\n"
+"Last-Translator: raj <raj>\n"
+"Language-Team: Hindi <kde-i18n-doc@kde.org>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: ../data/five-or-more.desktop.in.in.h:1 ../src/glines.c:1170
+#: ../src/glines.c:1173 ../src/glines.c:1661
+msgid "Five or More"
+msgstr "पांच या अधिक"
+
+#: ../data/five-or-more.desktop.in.in.h:2
+msgid "Remove colored balls from the board by forming lines"
+msgstr "रंगीन गेंदों को पट्ट से मिटाने हेतु पंक्ति में लगाएँ "
+
+#: ../data/five-or-more.desktop.in.in.h:3
+msgid "game;strategy;logic;"
+msgstr "game;strategy;logic;"
+
+#: ../data/five-or-more-preferences.ui.h:1
+msgid "Five or More Preferences"
+msgstr "पांच या अधिक वरीयताएँ"
+
+#: ../data/five-or-more-preferences.ui.h:2
+msgid "Appearance"
+msgstr "प्रकटन"
+
+#: ../data/five-or-more-preferences.ui.h:3
+msgid "_Image:"
+msgstr "छविः (_I)"
+
+# #-#-#-#-#  libgnomeui.gnome-2-2.hi.po (libgnomeui HEAD)  #-#-#-#-#
+# libgnomeui/gnome-druid-page-standard.c:170
+#: ../data/five-or-more-preferences.ui.h:4
+msgid "B_ackground color:"
+msgstr "पृष्ठभूमि रंग (_a)"
+
+#: ../data/five-or-more-preferences.ui.h:5
+msgid "Board Size"
+msgstr "बिसात आकार"
+
+#: ../data/five-or-more-preferences.ui.h:6
+#| msgid "Small"
+msgid "_Small"
+msgstr "छोटा (_S)"
+
+#: ../data/five-or-more-preferences.ui.h:7
+msgid "_Medium"
+msgstr "मध्यम (_M)"
+
+#: ../data/five-or-more-preferences.ui.h:8
+#| msgid "Large"
+msgid "_Large"
+msgstr "विशाल (_L)"
+
+#: ../data/five-or-more-preferences.ui.h:9
+#| msgctxt "preferences"
+#| msgid "General"
+msgid "General"
+msgstr "सामान्य"
+
+# #-#-#-#-#  libgnomeui.gnome-2-2.hi.po (libgnomeui HEAD)  #-#-#-#-#
+# libgnomeui/gnome-app-helper.c:264
+#: ../data/five-or-more-preferences.ui.h:10
+msgid "_Use fast moves"
+msgstr "तीव्र चाल उपयोग में लें (_U)"
+
+#: ../data/five-or-more.ui.h:1
+#| msgid "Five or More"
+msgid "Five or more"
+msgstr "पांच या अधिक"
+
+# #-#-#-#-#  libgnomeui.gnome-2-2.hi.po (libgnomeui HEAD)  #-#-#-#-#
+# libgnomeui/gnome-app-helper.c:95 libgnomeui/gnome-app-helper.h:534
+#: ../data/five-or-more.ui.h:2
+msgid "_Game"
+msgstr "खेल (_G)"
+
+# libgnomeui/gnome-scores.c:94
+#: ../data/five-or-more.ui.h:3
+msgid "Scores"
+msgstr "अंक"
+
+#: ../data/five-or-more.ui.h:4
+msgid "_Settings"
+msgstr "जमावट (_S)"
+
+#: ../data/five-or-more.ui.h:5
+msgid "_Help"
+msgstr "मदद (_H)"
+
+#. Help contents menu item
+#: ../data/five-or-more.ui.h:7 ../src/games-stock.c:247
+msgid "_Contents"
+msgstr "विषय सूची (_C)"
+
+#: ../data/five-or-more.ui.h:8
+msgid "Next:"
+msgstr "अगला:"
+
+#: ../data/five-or-more.ui.h:9
+#| msgctxt "number"
+#| msgid "0"
+msgid "0"
+msgstr "0"
+
+#: ../data/five-or-more.ui.h:10
+msgid "Score:"
+msgstr "अंक:"
+
+# gnome-session/gsm-client-row.c:34
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:1
+msgid "Playing field size"
+msgstr "खेल के मैदान का आकार"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:2
+msgid ""
+"Playing field size. 1=Small, 2=Medium, 3=Large. Any other value is invalid."
+msgstr "खेल के मैदान का आकार. 1=छोटा, 2=मझौला, 3=बड़ा. अन्य कोई भी मान अमान्य है."
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:3
+msgid "Ball style"
+msgstr "गेंद का प्रकार"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:4
+msgid "Ball style. The filename of the images to use for the balls."
+msgstr "गेंद शैली. फ़ाइल का नाम जिससे गेंदों की छवियाँ उपयोग में लिए जाने हैं."
+
+# #-#-#-#-#  libgnomeui.gnome-2-2.hi.po (libgnomeui HEAD)  #-#-#-#-#
+# libgnomeui/gnome-druid-page-standard.c:170
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:5
+msgid "Background color"
+msgstr "पृष्ठभूमि रंग"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:6
+msgid "Background color. The hex specification of the background color."
+msgstr "पृष्ठभूमि रंग. पृष्ठभूमि रंग के हेक्स विशेष लक्षण"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:7
+msgid "Time between moves"
+msgstr "चालों के बीच समय"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:8
+msgid "Time between moves in milliseconds."
+msgstr "मिली सेकण्ड्स में चालों के बीच समय."
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:9
+msgid "Game score"
+msgstr "खेल अंक"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:10
+msgid "Game score from last saved session."
+msgstr "पिछले सहेजे सत्र से खेल का अंक."
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:11
+msgid "Game field"
+msgstr "खेल मैदान"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:12
+msgid "Game field from last saved session."
+msgstr "पिछले सहेजे सत्र से खेल का मैदान."
+
+# libgnomeprintui/gnome-print-dialog.c:301
+# libgnomeprintui/gnome-print-paper-selector.c:1407
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:13
+msgid "Game preview"
+msgstr "खेल पूर्वावलोकन"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:14
+msgid "Game preview from last saved session."
+msgstr "पिछले सहेजे सत्र से खेल का पूर्वावलोकन."
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:15
+#| msgid "The width of the main window in pixels."
+msgid "Width of the window in pixels"
+msgstr "पिक्सेल में विंडो में चौड़ाई"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:16
+#| msgid "The height of the main window in pixels."
+msgid "Height of the window in pixels"
+msgstr "पिक्सेल में विंडो की ऊंचाई."
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:17
+msgid "true if the window is maximized"
+msgstr "सही यदि विंडो सबसे बड़े आकार का होना चाहिए"
+
+#: ../data/org.gnome.five-or-more.gschema.xml.in.h:18
+msgid "true if the window is fullscren"
+msgstr "सही यदि विंडो पूर्णस्क्रीन है"
+
+#. Score dialog column header for the score time (e.g. 1 minute)
+#: ../src/games-scores-dialog.c:136
+#| msgid "Time"
+msgctxt "score-dialog"
+msgid "Time"
+msgstr "समय"
+
+# libgnomeui/gnome-scores.c:94
+#. Score dialog column header for the score value (e.g. 30 moves)
+#: ../src/games-scores-dialog.c:142
+#| msgid "Score"
+msgctxt "score-dialog"
+msgid "Score"
+msgstr "अंक"
+
+#  Translators: this is for a minutes, seconds time display.
+#. Score format for time based scores.  %1$d is the time in minutes, %2$d is the time in seconds
+#: ../src/games-scores-dialog.c:307
+#, c-format
+#| msgid "%dm %ds"
+msgctxt "score-dialog"
+msgid "%1$dm %2$ds"
+msgstr "%1$dm %2$ds"
+
+#: ../src/games-scores-dialog.c:470
+msgid "New Game"
+msgstr "नया खेल "
+
+# libgnome-desktop/gnome-ditem-edit.c:616
+# libgnome-desktop/gnome-ditem-edit.c:718
+#. Score dialog column header for the name of the player who recorded the score
+#: ../src/games-scores-dialog.c:571
+#| msgid "Name"
+msgctxt "score-dialog"
+msgid "Name"
+msgstr "नाम"
+
+#. Score dialog column header for the date the score was recorded
+#: ../src/games-scores-dialog.c:580
+msgid "Date"
+msgstr "दिनांक"
+
+#: ../src/games-stock.c:41
+msgid "View help for this game"
+msgstr "इस खेल के लिये सहायता दिखायें"
+
+#: ../src/games-stock.c:42
+msgid "End the current game"
+msgstr "वर्तमान खेल समाप्त करें"
+
+#: ../src/games-stock.c:43
+msgid "Toggle fullscreen mode"
+msgstr "पूरा स्क्रीन मोड टॉगल करें"
+
+#: ../src/games-stock.c:44
+msgid "Get a hint for your next move"
+msgstr "अगली चाल हेतु संकेत प्राप्त करें"
+
+#: ../src/games-stock.c:45
+msgid "Leave fullscreen mode"
+msgstr "पूर्ण स्क्रीन छोड़ें"
+
+#: ../src/games-stock.c:46
+msgid "Start a new multiplayer network game"
+msgstr "एक नया मल्टीप्लेयर संजाल खेल आरंभ करें"
+
+#: ../src/games-stock.c:47
+msgid "End the current network game and return to network server"
+msgstr "मौजूदा संजाल खेल का अंत करें और संजाल सर्वर पर लौटें"
+
+#: ../src/games-stock.c:48
+msgid "Start a new game"
+msgstr "एक नया खेल प्रारंभ करें"
+
+# libgnomeui/gnome-app-helper.c:254
+#: ../src/games-stock.c:49
+msgid "Pause the game"
+msgstr "खेल रोकें"
+
+#: ../src/games-stock.c:50
+msgid "Show a list of players in the network game"
+msgstr "संजाल खेल में खिलाड़ियों की सूची दिखाएं"
+
+#: ../src/games-stock.c:51
+msgid "Redo the undone move"
+msgstr "पिछली चाल पूर्ववत करें"
+
+#: ../src/games-stock.c:52
+msgid "Restart the game"
+msgstr "वर्तमान खेल पुनःप्रारंभ करें"
+
+#: ../src/games-stock.c:53
+msgid "Resume the paused game"
+msgstr "रूका खेल पुनःप्रारंभ करें"
+
+# libgnomeui/gnome-app-helper.c:280
+#: ../src/games-stock.c:54
+msgid "View the scores"
+msgstr "अंक देखें"
+
+#: ../src/games-stock.c:55
+msgid "Undo the last move"
+msgstr "पिछली चाल पूर्ववत करें"
+
+# libgnomeui/gnome-app-helper.c:259
+#: ../src/games-stock.c:56
+msgid "About this game"
+msgstr "इस खेल के बारे में"
+
+#: ../src/games-stock.c:57
+msgid "Close this window"
+msgstr "इस विंडो को बन्द करें"
+
+# libgnomeui/gnome-app-helper.c:254
+#: ../src/games-stock.c:58
+msgid "Configure the game"
+msgstr "यह खेल विन्यस्त करें"
+
+# libgnomeui/gnome-app-helper.c:259
+#: ../src/games-stock.c:59
+msgid "Quit this game"
+msgstr "इस खेल को छोड़ें"
+
+#: ../src/games-stock.c:248
+msgid "_Fullscreen"
+msgstr "फुलस्क्रीन (_F)"
+
+#: ../src/games-stock.c:249
+msgid "_Hint"
+msgstr "संकेत (_H)"
+
+#. Translators: This "_New" is for the menu item 'Game->New', implies "New Game"
+#: ../src/games-stock.c:251
+msgid "_New"
+msgstr "नया (_N)"
+
+#. Translators: This "_New Game" is for the game-over dialogue
+#: ../src/games-stock.c:253
+msgid "_New Game"
+msgstr "नया खेल (_N)"
+
+#: ../src/games-stock.c:254
+msgid "_Redo Move"
+msgstr "चाल फिर चलें (_R)"
+
+#. Translators: this is the "Reset" scores button in a scores dialogue
+#: ../src/games-stock.c:256
+msgid "_Reset"
+msgstr "रीसेट करें (_R)"
+
+#. Translators: "_Restart" is the menu item 'Game->Restart', implies "Restart Game"
+#: ../src/games-stock.c:258
+msgid "_Restart"
+msgstr "पुन:आरंभ करें (_R)"
+
+#: ../src/games-stock.c:259
+msgid "_Undo Move"
+msgstr "चाल वापस लें (_U)"
+
+#: ../src/games-stock.c:260
+msgid "_Deal"
+msgstr "डील (_D)"
+
+#: ../src/games-stock.c:261
+msgid "_Leave Fullscreen"
+msgstr "पूर्ण स्क्रीन छोड़ें (_L)"
+
+#: ../src/games-stock.c:262
+msgid "Network _Game"
+msgstr "संजाल खेल (_G)"
+
+#: ../src/games-stock.c:263
+msgid "L_eave Game"
+msgstr "खेल छोड़ें (_e)"
+
+#  Players tab
+#  FIXME mnemonic doesn't seem to work
+#: ../src/games-stock.c:264
+msgid "Player _List"
+msgstr "खिलाड़ी सूची (_L)"
+
+#: ../src/games-stock.c:265
+msgid "_Pause"
+msgstr "ठहरें (_P)"
+
+#: ../src/games-stock.c:266
+msgid "Res_ume"
+msgstr "फिर चालू करें (_u)"
+
+# libgnomeui/gnome-scores.c:94
+#: ../src/games-stock.c:267
+msgid "_Scores"
+msgstr "अंक (_S)"
+
+# #-#-#-#-#  libgnomeui.gnome-2-2.hi.po (libgnomeui HEAD)  #-#-#-#-#
+# libgnomeui/gnome-app-helper.c:95 libgnomeui/gnome-app-helper.h:534
+#: ../src/games-stock.c:268
+msgid "_End Game"
+msgstr "खेल समाप्त (_E)"
+
+#. %s is replaced with the name of the game in gnome-games.
+#: ../src/games-stock.c:317
+#, c-format
+msgid ""
+"%s is free software; you can redistribute it and/or modify it under the "
+"terms of the GNU General Public License as published by the Free Software "
+"Foundation; either version %d of the License, or (at your option) any later "
+"version."
+msgstr ""
+"%s मुफ़्त सॉफ़्टवेयर है; इसे आप मुफ़्त सॉफ़्टवेयर फाउण्डेशन द्वारा प्रकाशित ग्नू जनरल पब्लिक "
+"लाइसेंस के तहत वितरित कर सकते हैं या परिवर्धित कर सकते हैं; लाइसेंस के %d संस्करण या इसके "
+"(अपने विकल्प अनुसार) बाद के संस्करण के तहत."
+
+#: ../src/games-stock.c:322
+#, c-format
+msgid ""
+"%s is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more "
+"details."
+msgstr ""
+"%s is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more "
+"details."
+
+#: ../src/games-stock.c:327
+#, c-format
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"%s; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, "
+"Fifth Floor, Boston, MA  02110-1301  USA"
+msgstr ""
+"You should have received a copy of the GNU General Public License along with "
+"%s; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, "
+"Fifth Floor, Boston, MA  02110-1301  USA"
+
+#: ../src/games-stock.c:331
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"this program.  If not, see <http://www.gnu.org/licenses/>."
+msgstr ""
+"इस प्रोग्राम के साथ आपको ग्नू - जनरल पब्लिक लाइसेंस की प्रतिलिपि मिलनी चाहिए. यदि नहीं "
+"तो देखें<http://www.gnu.org/licenses/>."
+
+#: ../src/glines.c:78
+msgctxt "board size"
+msgid "Small"
+msgstr "छोटा"
+
+#: ../src/glines.c:79
+msgctxt "board size"
+msgid "Medium"
+msgstr "मध्यम"
+
+#: ../src/glines.c:80
+msgctxt "board size"
+msgid "Large"
+msgstr "बड़ा"
+
+#: ../src/glines.c:170
+msgid "Could not load theme"
+msgstr "प्रसंग लोड नहीं कर सका"
+
+#: ../src/glines.c:176
+msgid "Preferences"
+msgstr "वरीयताएँ"
+
+#: ../src/glines.c:196
+#, c-format
+msgid ""
+"Unable to locate file:\n"
+"%s\n"
+"\n"
+"The default theme will be loaded instead."
+msgstr ""
+"फाइल देखने में विफल:\n"
+"%s\n"
+"\n"
+"मूलभूत थीम बदले में लोड होगा."
+
+#: ../src/glines.c:203
+#, c-format
+msgid ""
+"Unable to locate file:\n"
+"%s\n"
+"\n"
+"Please check that Five or More is installed correctly."
+msgstr ""
+"फाइल देखने में विफल:\n"
+"%s\n"
+"\n"
+"कृपया जांचें कि पांच या अधिक सही संस्थापित है."
+
+#: ../src/glines.c:408
+msgid "Match five objects of the same type in a row to score!"
+msgstr "अंक पाने हेतु एक ही रंग के पांच गेंदों को एक पंक्ति में लगाएँ!"
+
+#: ../src/glines.c:470
+msgid "GNOME Five or More"
+msgstr "ग्नोम पांच या अधिक"
+
+#: ../src/glines.c:472
+msgid "_Board size:"
+msgstr "बिसात आकार (_B):"
+
+#: ../src/glines.c:489
+msgid "Game Over!"
+msgstr "खेल खत्म!"
+
+#. Can't move there!
+#: ../src/glines.c:646
+msgid "You can't move there!"
+msgstr "वहां नहीं जा सकता!"
+
+#: ../src/glines.c:1175
+msgid ""
+"GNOME port of the once-popular Color Lines game.\n"
+"\n"
+"Five or More is a part of GNOME Games."
+msgstr ""
+"कभी लोकप्रिय रहे रंग पंक्ति गेम का ग्नोम पोर्ट.\n"
+"\n"
+"पांच या अधिक ग्नोम खेल का हिस्सा है."
+
+#  Translator credits
+#: ../src/glines.c:1181
+msgid "translator-credits"
+msgstr ""
+"रविशंकर श्रीवास्तव (raviratlami@yahoo.com)\n"
+"राजेश रंजन (rajeshkajha@yahoo.com)"
+
+# libgnomeprintui/gnome-print-paper-selector.c:1453
+#: ../src/glines.c:1184
+msgid "GNOME Games web site"
+msgstr "ग्नोम खेल वेबसाइट"

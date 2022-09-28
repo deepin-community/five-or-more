@@ -1,0 +1,408 @@
+# Dutch Translation for Gnome Games
+#
+# This file is distributed under the same license as the gnome-games package.
+#
+# Almer S. Tigelaar <almer1@dds.nl>, 2000.
+# Taco Witte <T.C.Witte@phys.uu.nl>, 2002.
+# Erik Kruijswijk <e.kruijswijk@ictro.drp.minjus.nl>, 2002.
+# Tino Meinen <tino.meinen@gmail.com>, 2002–2009.
+# Wouter Bolsterlee <wbolster@gnome.org>, 2008.
+# Redmar <redmar@ubuntu-nl.org>, 2011.
+# Hein-Jan Leliveld <h.j.leliveld@student.tn.tudelft.nl>
+# Brent De Weerdt <deweerdt.brent@gmail.com>, 2013
+# Justin van Steijn <jvs@fsfe.org>, 2015
+# Nathan Follens <nthn@unseen.is>, 2017, 2019
+#
+#
+# Kaartspellen:
+# dealer	    bank
+# foundation	basis     beter woord?
+# hand		    slag/beurt/hand?
+# pile		    stapel
+# slot		    vak/stapel
+# stock		    voorraad/kaarten
+# tableau	    tafel
+#
+# diamonds	    ruiten
+# clubs		    klaver
+# hearts	    harten
+# spades	    schoppen
+# king		    heer
+# queen		    vrouw
+# jack		    boer
+# ace		    aas
+#
+#
+# Square	    vak
+# block		    blok
+# Tile		    Tegel/spelvak
+#
+# Mahjong:
+# map		    stapelwijze
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/five-or-more/issues\n"
+"POT-Creation-Date: 2019-01-11 15:40+0000\n"
+"PO-Revision-Date: 2019-02-24 15:12+0100\n"
+"Last-Translator: Nathan Follens <nthn@unseen.is>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2011-09-18 07:04+0000\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: data/five-or-more-preferences.ui:13
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+#: data/five-or-more-preferences.ui:36
+msgid "Appearance"
+msgstr "Uiterlijk"
+
+#: data/five-or-more-preferences.ui:60
+msgid "_Theme:"
+msgstr "_Thema:"
+
+#: data/five-or-more-preferences.ui:76
+msgid "balls"
+msgstr "ballen"
+
+#: data/five-or-more-preferences.ui:77
+msgid "shapes"
+msgstr "vormen"
+
+#: data/five-or-more-preferences.ui:78
+msgid "tango"
+msgstr "tango"
+
+#: data/five-or-more-preferences.ui:87
+msgid "B_ackground color:"
+msgstr "A_chtergrondkleur:"
+
+#: data/five-or-more.ui:7
+msgid "_New Game"
+msgstr "_Nieuw spel"
+
+#: data/five-or-more.ui:13
+msgid "S_cores"
+msgstr "S_cores"
+
+#: data/five-or-more.ui:19
+msgid "_Small"
+msgstr "_Klein"
+
+#: data/five-or-more.ui:24
+msgid "_Medium"
+msgstr "_Middel"
+
+#: data/five-or-more.ui:29
+msgid "_Large"
+msgstr "_Groot"
+
+#: data/five-or-more.ui:36
+msgid "_Preferences"
+msgstr "_Voorkeuren"
+
+#: data/five-or-more.ui:40
+msgid "_Help"
+msgstr "_Hulp"
+
+#: data/five-or-more.ui:45
+msgid "_About Five or More"
+msgstr "_Over Vijf of meer"
+
+#: data/five-or-more.ui:65 data/org.gnome.five-or-more.appdata.xml.in:7
+#: data/org.gnome.five-or-more.desktop.in:3 src/main.vala:74 src/main.vala:168
+msgid "Five or More"
+msgstr "Vijf of meer"
+
+# komende/volgende/hierna
+# volgende knikkers
+#: data/five-or-more.ui:77
+msgid "Next:"
+msgstr "Volgende:"
+
+#: data/org.gnome.five-or-more.appdata.xml.in:8
+#: data/org.gnome.five-or-more.desktop.in:4
+msgid "Remove colored balls from the board by forming lines"
+msgstr "Gekleurde ballen van het bord verwijderen door lijnen te vormen"
+
+#: data/org.gnome.five-or-more.appdata.xml.in:10
+msgid ""
+"Five or More is the GNOME port of a once-popular computer game. Align five "
+"or more objects of the same color into a line to cause them to disappear and "
+"score points. Earn many more points by lining up as many objects as possible "
+"before clearing them."
+msgstr ""
+"Vijf of meer is de Gnome-variant van een computerspel dat eens populair was. "
+"Plaats vijf of meer objecten van dezelfde kleur op één lijn om ze te laten "
+"verdwijnen en punten te scoren. Verdien nog meer punten door zo veel "
+"mogelijk objecten op één lijn te zetten voordat ze verdwijnen."
+
+#: data/org.gnome.five-or-more.appdata.xml.in:16
+msgid ""
+"More objects appear after every turn. Play for as long as possible, until "
+"the board is completely full!"
+msgstr ""
+"Er verschijnen meer objecten na elke beurt. Speel zo lang mogelijk, totdat "
+"het bord volledig vol is!"
+
+#: data/org.gnome.five-or-more.appdata.xml.in:40
+msgid "The GNOME Project"
+msgstr "Het Gnome-project"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.five-or-more.desktop.in:6
+msgid "game;strategy;logic;"
+msgstr "spel;strategie;logica;"
+
+#. Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+#: data/org.gnome.five-or-more.desktop.in:9
+msgid "org.gnome.five-or-more"
+msgstr "org.gnome.five-or-more"
+
+#: data/org.gnome.five-or-more.gschema.xml:5
+msgid "Playing field size"
+msgstr "Speelveld grootte"
+
+#: data/org.gnome.five-or-more.gschema.xml:6
+msgid ""
+"Playing field size. 1=Small, 2=Medium, 3=Large. Any other value is invalid."
+msgstr ""
+"Speelveld grootte. 1=klein, 2=medium, 3=groot. Elke andere waarde is "
+"ongeldig."
+
+#: data/org.gnome.five-or-more.gschema.xml:10
+msgid "Ball style"
+msgstr "Knikkerstijl"
+
+#: data/org.gnome.five-or-more.gschema.xml:11
+msgid "Ball style. The filename of the images to use for the balls."
+msgstr "Knikkerstijl. De bestandsnaam van de plaatjes van de knikkers."
+
+#: data/org.gnome.five-or-more.gschema.xml:15
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+#: data/org.gnome.five-or-more.gschema.xml:16
+msgid "Background color. The hex specification of the background color."
+msgstr "Achtergrondkleur. De hexadecimale opgave van de achtergrondkleur."
+
+#: data/org.gnome.five-or-more.gschema.xml:20
+msgid "Time between moves"
+msgstr "Tijd tussen zetten"
+
+#: data/org.gnome.five-or-more.gschema.xml:21
+msgid "Time between moves in milliseconds."
+msgstr "De tijd tussen zetten in milliseconden."
+
+#: data/org.gnome.five-or-more.gschema.xml:25
+msgid "Game score"
+msgstr "Score"
+
+#: data/org.gnome.five-or-more.gschema.xml:26
+msgid "Game score from last saved session."
+msgstr "Score van de laatst bewaarde sessie."
+
+#: data/org.gnome.five-or-more.gschema.xml:30
+msgid "Game field"
+msgstr "Spelveld"
+
+#: data/org.gnome.five-or-more.gschema.xml:31
+msgid "Game field from last saved session."
+msgstr "Spelveld van de laatstbewaarde sessie."
+
+#: data/org.gnome.five-or-more.gschema.xml:35
+msgid "Game preview"
+msgstr "Spelvoorbeeld"
+
+#: data/org.gnome.five-or-more.gschema.xml:36
+msgid "Game preview from last saved session."
+msgstr "Spelvoorbeeld van de laatst bewaarde sessie."
+
+#: data/org.gnome.five-or-more.gschema.xml:40
+msgid "Width of the window in pixels"
+msgstr "De breedte van het venster in beeldpunten"
+
+# de gevraagde hoogte/de hoogte
+#: data/org.gnome.five-or-more.gschema.xml:44
+msgid "Height of the window in pixels"
+msgstr "De hoogte van het venster in beeldpunten"
+
+#: data/org.gnome.five-or-more.gschema.xml:48
+msgid "true if the window is maximized"
+msgstr "ingeschakeld als het venster is gemaximaliseerd"
+
+#: src/game.vala:94
+msgctxt "board size"
+msgid "Small"
+msgstr "Klein"
+
+#: src/game.vala:95
+msgctxt "board size"
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: src/game.vala:96
+msgctxt "board size"
+msgid "Large"
+msgstr "Groot"
+
+#: src/main.vala:171
+msgid "GNOME port of the once-popular Color Lines game"
+msgstr "Gnome-versie van het eens zo populaire kleurlijnenspel"
+
+#: src/main.vala:177
+msgid "translator-credits"
+msgstr ""
+"Tino Meinen\n"
+"Hein-Jan Leliveld\n"
+"Almer S. Tigelaar\n"
+"Taco Witte\n"
+"Erik Kruijswijk\n"
+"Justin van Steijn\n"
+"Nathan Follens\n"
+"\n"
+"Meer info over Gnome-NL http://nl.gnome.org/\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Balaam's Miracle https://launchpad.net/~balaam-balaamsmiracle\n"
+"  Bert de Bruijn https://launchpad.net/~lpdebruijn\n"
+"  Bram Smulders https://launchpad.net/~bramsmulders\n"
+"  Carl Michiels https://launchpad.net/~carl-michiels\n"
+"  Erwin Poeze https://launchpad.net/~donnut\n"
+"  Guus https://launchpad.net/~guus-verbeek\n"
+"  Hanneke Cleijne https://launchpad.net/~jehanneke\n"
+"  Hannie Dumoleyn https://launchpad.net/~lafeber-dumoleyn\n"
+"  Jochem https://launchpad.net/~jochem56\n"
+"  Mario Blättermann https://launchpad.net/~mariobl\n"
+"  Markr https://launchpad.net/~mark-r\n"
+"  Rachid https://launchpad.net/~rachidbm\n"
+"  Robin Verschueren https://launchpad.net/~robin-verschueren\n"
+"  Sander D https://launchpad.net/~sanderd\n"
+"  UndiFineD https://launchpad.net/~k.dejong\n"
+"  Wouter Bolsterlee (uws) https://launchpad.net/~uws\n"
+"  kerplunk https://launchpad.net/~schorpioen"
+
+#: src/window.vala:50
+msgid "Match five objects of the same type in a row to score!"
+msgstr "Plaats vijf objecten van hetzelfde type op een rij om te scoren!"
+
+#: src/window.vala:51
+msgid "You can’t move there!"
+msgstr "U kunt daar niet zetten!"
+
+# voorbij/afgelopen
+#: src/window.vala:52
+msgid "Game Over!"
+msgstr "Spel afgelopen!"
+
+#: src/window.vala:53
+#, c-format
+msgid "Score: %d"
+msgstr "Score: %d"
+
+#: src/window.vala:87
+msgid "Board Size: "
+msgstr "Bordgrootte: "
+
+# ingevuld?/neergezet
+#: src/window.vala:159
+msgid "Are you sure you want to restart the game?"
+msgstr "Weet u zeker dat u het spel opnieuw wilt starten?"
+
+#: src/window.vala:161
+msgid "_Cancel"
+msgstr "_Annuleren"
+
+#: src/window.vala:162
+msgid "_Restart"
+msgstr "_Herstarten"
+
+#~ msgid "_Image:"
+#~ msgstr "_Afbeelding:"
+
+#~ msgid "General"
+#~ msgstr "Algemeen"
+
+#~ msgid "_Use fast moves"
+#~ msgstr "_Snelle zetten gebruiken"
+
+#~ msgid "0"
+#~ msgstr "0"
+
+#~ msgid "Start a new puzzle"
+#~ msgstr "Een nieuw spel beginnen"
+
+#~ msgid "About"
+#~ msgstr "Info"
+
+#~ msgid "Quit"
+#~ msgstr "Afsluiten"
+
+#~ msgctxt "themes"
+#~ msgid "dots"
+#~ msgstr "punten"
+
+#~ msgctxt "themes"
+#~ msgid "gumball"
+#~ msgstr "gumbal"
+
+# gaat het om de plaatjes op de stenen of de stapelwijze?
+#~ msgid "Could not load theme"
+#~ msgstr "Kon het thema niet laden"
+
+#~ msgid ""
+#~ "Unable to locate file:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "The default theme will be loaded instead."
+#~ msgstr ""
+#~ "Kon bestand '%s' niet vinden:\n"
+#~ "\n"
+#~ "In plaats daarvan zal het standaardthema worden geladen."
+
+#~ msgid ""
+#~ "Unable to locate file:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Please check that Five or More is installed correctly."
+#~ msgstr ""
+#~ "Kon het bestand %s niet vinden:\n"
+#~ "\n"
+#~ "Controleer of 'Vijf of meer' correct is geïnstalleerd."
+
+#~ msgid "Five or More Scores"
+#~ msgstr "Scores van Vijf of meer"
+
+#~ msgid "_Board size:"
+#~ msgstr "_Bordgrootte:"
+
+#~ msgctxt "score-dialog"
+#~ msgid "Time"
+#~ msgstr "Tijd"
+
+#~ msgctxt "score-dialog"
+#~ msgid "Score"
+#~ msgstr "Score"
+
+#~ msgctxt "score-dialog"
+#~ msgid "%1$dm %2$ds"
+#~ msgstr "%1$dm %2$ds"
+
+#~ msgid "_Quit"
+#~ msgstr "A_fsluiten"
+
+#~ msgid "_Undo"
+#~ msgstr "_Ongedaan maken"
+
+# leegmaken/wissen
+#~ msgid "_Close"
+#~ msgstr "Sl_uiten"
+
+#~ msgid "Date"
+#~ msgstr "Datum"

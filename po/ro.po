@@ -1,0 +1,368 @@
+# translation of gnome-games.HEAD.ro.po to Română
+# gnome-games
+# Copyright (C) 2004, 2005, 2006 Free Software Foundation, Inc.
+# Iulian Cutui <itph@k.ro>
+# Marius Andreiana <mandreiana@yahoo.com>, 2001.
+# Mugurel Tudor <mugurelu@gnome.ro>, 2004-2005, 2006.
+# Adi Roiban https://launchpad.net/~adiroiban, 2008, 2009
+# Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2009, 2010, 2011.
+# Ion Laurențiu Cristian <me_lawr@yahoo.com>, 2010, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games.HEAD.ro\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/five-or-more/issues\n"
+"POT-Creation-Date: 2019-01-11 15:40+0000\n"
+"PO-Revision-Date: 2019-01-27 02:08+0200\n"
+"Last-Translator: Florentina Mușat <florentina.musat.28 [at] gmail [dot] "
+"com>\n"
+"Language-Team: Romanian Gnome Team <gnomero-list@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Launchpad-Export-Date: 2009-11-27 09:12+0000\n"
+
+#: data/five-or-more-preferences.ui:13
+msgid "Preferences"
+msgstr "Preferințe"
+
+#: data/five-or-more-preferences.ui:36
+msgid "Appearance"
+msgstr "Aspect"
+
+#: data/five-or-more-preferences.ui:60
+msgid "_Theme:"
+msgstr "_Temă:"
+
+#: data/five-or-more-preferences.ui:76
+msgid "balls"
+msgstr "bile"
+
+#: data/five-or-more-preferences.ui:77
+msgid "shapes"
+msgstr "forme"
+
+#: data/five-or-more-preferences.ui:78
+msgid "tango"
+msgstr "tango"
+
+#: data/five-or-more-preferences.ui:87
+msgid "B_ackground color:"
+msgstr "Culo_area de fond:"
+
+#: data/five-or-more.ui:7
+msgid "_New Game"
+msgstr "Joc _nou"
+
+#: data/five-or-more.ui:13
+msgid "S_cores"
+msgstr "S_coruri"
+
+#: data/five-or-more.ui:19
+msgid "_Small"
+msgstr "_Mic"
+
+#: data/five-or-more.ui:24
+msgid "_Medium"
+msgstr "_Mediu"
+
+#: data/five-or-more.ui:29
+msgid "_Large"
+msgstr "Ma_re"
+
+#: data/five-or-more.ui:36
+msgid "_Preferences"
+msgstr "_Preferințe"
+
+#: data/five-or-more.ui:40
+msgid "_Help"
+msgstr "_Ajutor"
+
+#: data/five-or-more.ui:45
+msgid "_About Five or More"
+msgstr "_Despre Cinci sau mai multe"
+
+#: data/five-or-more.ui:65 data/org.gnome.five-or-more.appdata.xml.in:7
+#: data/org.gnome.five-or-more.desktop.in:3 src/main.vala:74 src/main.vala:168
+msgid "Five or More"
+msgstr "Cinci sau mai multe"
+
+#: data/five-or-more.ui:77
+msgid "Next:"
+msgstr "Următorul:"
+
+#: data/org.gnome.five-or-more.appdata.xml.in:8
+#: data/org.gnome.five-or-more.desktop.in:4
+msgid "Remove colored balls from the board by forming lines"
+msgstr "Elimină bilele colorate de pe tablă formând linii"
+
+#: data/org.gnome.five-or-more.appdata.xml.in:10
+msgid ""
+"Five or More is the GNOME port of a once-popular computer game. Align five "
+"or more objects of the same color into a line to cause them to disappear and "
+"score points. Earn many more points by lining up as many objects as possible "
+"before clearing them."
+msgstr ""
+"Cinci sau mai multe este portarea GNOME a unui joc pe calculator odinioară "
+"popular. Aliniați cinci sau mai multe obiecte de aceeași culoare într-o "
+"linie pentru a le face să dispară și a înscrie puncte. Câștigați mult mai "
+"multe puncte prin alinierea a cât mai multor obiecte posibil înainte de a le "
+"elibera."
+
+#: data/org.gnome.five-or-more.appdata.xml.in:16
+msgid ""
+"More objects appear after every turn. Play for as long as possible, until "
+"the board is completely full!"
+msgstr ""
+"Mai multe obiecte apar după fiecare rundă. Jucați cât mai mult timp posibil, "
+"până când tabla este completă!"
+
+#: data/org.gnome.five-or-more.appdata.xml.in:40
+msgid "The GNOME Project"
+msgstr "Proiectul GNOME"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.five-or-more.desktop.in:6
+msgid "game;strategy;logic;"
+msgstr "game;strategy;logic;joc;strategie;logică;"
+
+#. Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+#: data/org.gnome.five-or-more.desktop.in:9
+msgid "org.gnome.five-or-more"
+msgstr "org.gnome.five-or-more"
+
+#: data/org.gnome.five-or-more.gschema.xml:5
+msgid "Playing field size"
+msgstr "Mărimea tablei de joc"
+
+#: data/org.gnome.five-or-more.gschema.xml:6
+msgid ""
+"Playing field size. 1=Small, 2=Medium, 3=Large. Any other value is invalid."
+msgstr ""
+"Mărimea tablei de joc: 1=Mică, 2=Medie, 3=Mare. Orice altă valoare este "
+"invalidă."
+
+#: data/org.gnome.five-or-more.gschema.xml:10
+msgid "Ball style"
+msgstr "Stilul bilei"
+
+#: data/org.gnome.five-or-more.gschema.xml:11
+msgid "Ball style. The filename of the images to use for the balls."
+msgstr "Stilul bilei. Numele fișierului ce conține imaginile pentru bile."
+
+#: data/org.gnome.five-or-more.gschema.xml:15
+msgid "Background color"
+msgstr "Culoarea de fundal"
+
+#: data/org.gnome.five-or-more.gschema.xml:16
+msgid "Background color. The hex specification of the background color."
+msgstr "Culoarea de fundal. Specificația în hexazecimal a culorii de fundal."
+
+#: data/org.gnome.five-or-more.gschema.xml:20
+msgid "Time between moves"
+msgstr "Timpul dintre mutări"
+
+#: data/org.gnome.five-or-more.gschema.xml:21
+msgid "Time between moves in milliseconds."
+msgstr "Timpul dintre mutări în milisecunde."
+
+#: data/org.gnome.five-or-more.gschema.xml:25
+msgid "Game score"
+msgstr "Scorul jocului"
+
+#: data/org.gnome.five-or-more.gschema.xml:26
+msgid "Game score from last saved session."
+msgstr "Scorul jocului de la ultima sesiune salvată."
+
+#: data/org.gnome.five-or-more.gschema.xml:30
+msgid "Game field"
+msgstr "Câmpul jocului"
+
+#: data/org.gnome.five-or-more.gschema.xml:31
+msgid "Game field from last saved session."
+msgstr "Câmpul jocului de la ultima sesiune salvată."
+
+#: data/org.gnome.five-or-more.gschema.xml:35
+msgid "Game preview"
+msgstr "Previzualizare joc"
+
+#: data/org.gnome.five-or-more.gschema.xml:36
+msgid "Game preview from last saved session."
+msgstr "Previzualizare joc de la ultima sesiune salvată."
+
+#: data/org.gnome.five-or-more.gschema.xml:40
+msgid "Width of the window in pixels"
+msgstr "Lățimea ferestrei în pixeli"
+
+#: data/org.gnome.five-or-more.gschema.xml:44
+msgid "Height of the window in pixels"
+msgstr "Înălțimea ferestrei în pixeli"
+
+#: data/org.gnome.five-or-more.gschema.xml:48
+msgid "true if the window is maximized"
+msgstr "adevărat dacă fereastra este maximizată"
+
+#: src/game.vala:94
+msgctxt "board size"
+msgid "Small"
+msgstr "Mic"
+
+#: src/game.vala:95
+msgctxt "board size"
+msgid "Medium"
+msgstr "Mediu"
+
+#: src/game.vala:96
+msgctxt "board size"
+msgid "Large"
+msgstr "Mare"
+
+#: src/main.vala:171
+msgid "GNOME port of the once-popular Color Lines game"
+msgstr "Portare GNOME al jocului odinioară popular Colorează liniile"
+
+#: src/main.vala:177
+msgid "translator-credits"
+msgstr ""
+"Mugurel Tudor <mugurelu@gnome.ro>\n"
+"Lucian Adrian Grijincu <lucian.grijincu@gmail.com>\n"
+"Florentina Mușat <florentina.musat.28 [at] gmail [dot] com>, 2019\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Adi Roiban https://launchpad.net/~adiroiban\n"
+"  Andrei Coman https://launchpad.net/~comandrei\n"
+"  Beczuk David https://launchpad.net/~beczukdavid\n"
+"  Bogdan BOTEZ https://launchpad.net/~bmbogdan\n"
+"  Doru Horișco https://launchpad.net/~doruhushhush\n"
+"  Eduard Nicodei https://launchpad.net/~omega2youall\n"
+"  Ionuț Jula https://launchpad.net/~ionutjula\n"
+"  Lucian Adrian Grijincu https://launchpad.net/~lucian.grijincu\n"
+"  Manuel R. Ciosici https://launchpad.net/~manuelciosici\n"
+"  Marius https://launchpad.net/~yo9gvn\n"
+"  Mihai R https://launchpad.net/~mihairadau\n"
+"  Mugurel Tudor https://launchpad.net/~mugurelu\n"
+"  Mugurel Tudor https://launchpad.net/~mugurelu-gnome\n"
+"  leandrud https://launchpad.net/~leandrud"
+
+#: src/window.vala:50
+msgid "Match five objects of the same type in a row to score!"
+msgstr "Potriviți cinci obiecte de același tip într-o linie pentru a puncta!"
+
+#: src/window.vala:51
+msgid "You can’t move there!"
+msgstr "Nu se poate muta acolo!"
+
+#: src/window.vala:52
+msgid "Game Over!"
+msgstr "Jocul s-a terminat!"
+
+#: src/window.vala:53
+#, c-format
+msgid "Score: %d"
+msgstr "Scor: %d"
+
+#: src/window.vala:87
+msgid "Board Size: "
+msgstr "Mărime tablă: "
+
+#: src/window.vala:159
+msgid "Are you sure you want to restart the game?"
+msgstr "Sigur doriți să reîncepeți jocul?"
+
+#: src/window.vala:161
+msgid "_Cancel"
+msgstr "_Anulează"
+
+#: src/window.vala:162
+msgid "_Restart"
+msgstr "_Reîncepe"
+
+#~ msgid "_Image:"
+#~ msgstr "_Imagine:"
+
+#~ msgid "Board Size"
+#~ msgstr "Mărime tablă"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "_Use fast moves"
+#~ msgstr "_Folosește mutări rapide"
+
+#~ msgid "Start a new puzzle"
+#~ msgstr "Începe un puzzle nou"
+
+#~ msgid "About"
+#~ msgstr "Despre aplicație"
+
+#~ msgid "Quit"
+#~ msgstr "Ieșire"
+
+#~ msgctxt "themes"
+#~ msgid "dots"
+#~ msgstr "puncte"
+
+#~ msgctxt "themes"
+#~ msgid "gumball"
+#~ msgstr "bilă de gumă"
+
+#~ msgid ""
+#~ "Unable to locate file:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "The default theme will be loaded instead."
+#~ msgstr ""
+#~ "Nu s-a putut localiza fișierul:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Tema implicită va fi încărcată în schimb."
+
+#~ msgid ""
+#~ "Unable to locate file:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Please check that Five or More is installed correctly."
+#~ msgstr ""
+#~ "Nu s-a putut localiza fișierul:\n"
+#~ "%s\n"
+#~ "\n"
+#~ "Verificați dacă jocul „Cinci sau mai multe” este instalat corect."
+
+#~ msgid "Could not load theme"
+#~ msgstr "Nu s-a putut încărca tema"
+
+#~ msgid "0"
+#~ msgstr "0"
+
+#~ msgid "Five or More Scores"
+#~ msgstr "Scoruri cinci sau mai multe"
+
+#~ msgid "_Board size:"
+#~ msgstr "_Dimensiunea tablei:"
+
+#~ msgctxt "score-dialog"
+#~ msgid "Time"
+#~ msgstr "Timp"
+
+#~ msgctxt "score-dialog"
+#~ msgid "Score"
+#~ msgstr "Scor"
+
+#~ msgctxt "score-dialog"
+#~ msgid "%1$dm %2$ds"
+#~ msgstr "%1$dm %2$ds"
+
+#~ msgid "_Quit"
+#~ msgstr "_Ieșire"
+
+#~ msgid "_Undo"
+#~ msgstr "An_ulează"
+
+#~ msgid "_Close"
+#~ msgstr "În_chide"
+
+#~ msgid "Date"
+#~ msgstr "Dată"
